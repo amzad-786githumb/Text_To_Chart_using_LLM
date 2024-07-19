@@ -10,7 +10,7 @@ Previously I demonstrated that this can be done by prompting an LLM with the ont
 Using LLM to transform unstructured text to KG
 I want to describe and compare four approaches that use an LLM to transform unstructured text, responding with a KG that conforms to a pre-defined ontology:
 
-1.Text-to-Graph using an LLM with pre-trained ontologies
+1.Text-to-Graph using an LLM with pre-trained ontologies<\br>
 2.Text-to-Graph prompted an LLM with an ontology
 3.Text-to-Graph using an LLM fine-tuned with an ontology
 4.Text-to-Graph using a hybrid of a fine-tuned and pre-trained LLM
